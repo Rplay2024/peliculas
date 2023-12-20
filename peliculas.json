@@ -4,11 +4,31 @@
         "name": "PELICULAS DE ESTRENOS 📺📽",
         "samples": [
     
-    
+
+          {
+      "icono": "https://media.vandalsports.com/i/620x775/7-2023/202372792613_1.jpg",
+            "name": "SAW X (2023)",
+            "uri": "WIB3wKeH+iuWQ8ZHelVBHbOh1KdcGXQzK3xv/7L6ZwV+dBHzvMZOkmDgE8Bu8NDZ0cwNCwzTSSdBltY4VXLHeg=="
+          },
       {
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YWDPd586e-sTo1RuU9tw3-QMl0mWJJGcaVptlB19sV4UqzcM",
             "name": "SEVEN: LOS 7 PECADOS CAPITALES (1995)",
             "uri": "tWaZ87V/uq2f1qJGfpaUZsjpYXGk+/hjGw4DyUj14rhH7QM3jBX4+/yhH5XALjEMpirjxdnXei583Ir0X7bMgA=="
+          },
+          {
+      "icono": "https://i.ibb.co/TYyYtpr/avatar-1.jpg",
+            "name": "AVATAR:EL CAMINO DEL AGUA",
+            "uri": "VDCNBpvzMcWyh/rqUAUN6Wcx/XE+suZeGrLWanISktzh2G0PB6YX45KsuoGn8nqw0r3sZ0tPoJUfjRNzPuomqrR05cim1ckdOJ3m5cdXPdU="
+          },
+          {
+      "icono": "https://storage.googleapis.com/spe-uploads/Key_Art_Vacacionesde_Verano_4014a7e1ef.png",
+            "name": "VACIONES DE VERANO",
+            "uri": "WIB3wKeH+iuWQ8ZHelVBHbOh1KdcGXQzK3xv/7L6ZwWIaZa185eL/61Yb6ZS0ul2QyS8L8k3nnZK4Rw8sX+FxiODBfEV0yV7vQqsJyeCsRY="
+          },
+        {
+      "icono": "https://decine21.com/img/upload/obras/medellin-47100/medellin-47100-c.jpg",
+            "name": "MEDELLIN",
+            "uri": "WIB3wKeH+iuWQ8ZHelVBHbOh1KdcGXQzK3xv/7L6ZwUhu8nJQj/67NVDy5jexTRah5709s1kxvn8xQLT4T5U8w=="
           },
       {
       "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-exorcist-believer/images/regions/us/onesheet.jpg",
@@ -38,7 +58,7 @@
       {
       "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEtEiyPeandEyVJEmnFCarFYy7YexbqbIUNOHE6KGv_TFmMr9B",
             "name": "MISION IMPOSIBLE:SENTENCIA MORTAL",
-            "uri": "S9QR1SFrW2YFrC6IFnQ2s0/1OBsyjtwJBOFaQZlBZtiRuWHKsvwaBzRll23/aNkzLlYFpG7pntEsI+DD8avgZvqggm75qxcNoIulTls9svs="
+            "uri": "WIB3wKeH+iuWQ8ZHelVBHbOh1KdcGXQzK3xv/7L6ZwWIPatOe4T4IGWbdAIQO2hrEYvWJ02rv42+bY8KaPgG3epn7ZADGG/iUuSDazO69el9n2XLkmkEdtMnzymX/o/I/EDX7E4LNRpMcPLoL+gbwA=="
           },
           {
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBHwlunCnJEfYQ4R7eAKGW-C5rtE4heDGz-CllxUyT3pOPqy-",
