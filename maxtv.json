@@ -54,7 +54,7 @@
  "drm_license_url": "https://panelssh.com.ar/Keys/canal26.json"
  },
  { "name": "CRONICA TV",
- "ico": "https://panelssh.com.ar/Img/cronicatv.png,
+ "ico": "https://panelssh.com.ar/Img/cronicatv.png",
  "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/cronicatv.json"
