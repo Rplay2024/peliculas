@@ -3,61 +3,85 @@
 "lista": 
 [ { "name": "TELEFUTURO", 
 "ico": "https://panelssh.com.ar/Img/telefuturo.png", 
-"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8"
+"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8",
+"drm_scheme": "",
+"drm_license_url": ""
 }, 
 { "name": "SNT", 
 "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png", 
-"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8"
+"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
+"drm_scheme": "",
+"drm_license_url": ""
 }, 
 {
 "name": "NPY",
 "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NPY/EXPORTACION_WEB/SS/NPY_t-290x163.png",
-"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8"
+"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8",
+"drm_scheme": "",
+"drm_license_url": ""
 }, 
 {
 "name": "TV CÁMARA",
 "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVCMARA/EXPORTACION_WEB/SS/TVCMARA_t-290x163.png",
-"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8"
+"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8",
+"drm_scheme": "",
+"drm_license_url": ""
 }, 
 {
 "name": "SUR TV",
 "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/SURTV/EXPORTACION_WEB/SS/SURTV_t-290x163.png",
-"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SURTV)/index.m3u8"
+"uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SURTV)/index.m3u8",
+"drm_scheme": "",
+"drm_license_url": ""
 }, 
 {
     "name": "ABC TV",
     "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "LA TELE PY",
     "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELEPY/EXPORTACION_WEB/SS/LATELEPY_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "C9N",
     "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "TRECE PY",
     "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "PARAVISIÓN",
     "ico": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PARAVISIN/EXPORTACION_WEB/SS/PARAVISIN_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "VENUS MEDIA",
     "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/VENUSMEDIA/EXPORTACION_WEB/SS/VENUSMEDIA_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VENUS_MEDIA)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VENUS_MEDIA)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "GEN HD",
     "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN)/index.m3u8"
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN)/index.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
  ] 
  },
@@ -68,27 +92,39 @@
       {
         "name": "Tigo Sports py",
         "uri": "https://ssh101.bozztv.com/ssh101/usalo/playlist.m3u8",
-        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "TIGO 2",
         "uri": "https://live-ak.vimeocdn.com/exp=1695857764~acl=%2F1e5f08a4-24fa-4db5-89b9-d6a084ae0049%2F%2A~hmac=ae85773cdb258912dd9fb10a2699bb801fd848c6b6d6d04ad8f1375c993bb6a8/1e5f08a4-24fa-4db5-89b9-d6a084ae0049/hls.m3u8?min_seconds=30",
-        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "TIGO SPORTS 2",
         "uri": "hhttps://testphp07.alwaysdata.net/universo/okru.m3u8",
-        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "TIGO SPORTS  3",
         "uri": "https://ssh101.bozztv.com/ssh101/video/playlist.m3u8",
-        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+        "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
+        "drm_scheme": "",
+        "drm_license_url": "" 
+
       },
       {
         "name": "TIGO GUATEMALA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
-        "ico": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
+        "ico": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png",
+        "drm_scheme": "",
+        "drm_license_url": "" 
+
       }
     ]
   },
