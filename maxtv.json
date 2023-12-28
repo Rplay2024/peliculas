@@ -4,28 +4,28 @@
 [ 
     {
   "name": "TELEFUTURO",
-   "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png",
+   "ico": "https://panelssh.com.ar/Img/telefuturo.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A_wl/TELEFUTURO_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
 },
 {
   "name": "LA TELE",
-  "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELEPY/EXPORTACION_WEB/SS/LATELEPY_t-290x163.png",
+  "ico": "https://panelssh.com.ar/Img/latele.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A_wl/LA_TELE_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
 },
 {
   "name": "SNT",
-   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png",
+   "ico": "https://panelssh.com.ar/Img/snt.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A_wl/SNT_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
 },
 {
   "name": "C9N",
-   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png",
+   "ico": "https://panelssh.com.ar/Img/c9n.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_wl/C9N_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca"
