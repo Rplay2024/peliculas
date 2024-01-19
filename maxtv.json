@@ -248,28 +248,28 @@
     "mode": false, 
     "lista": [
       {
-        "name": "Tigo Sports py",
+        "name": "EVENTOS py",
         "uri": "https://ssh101.bozztv.com/ssh101/todosusan/playlist.m3u8",
         "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO 2",
-        "uri": "https://live-ak.vimeocdn.com/exp=1695857764~acl=%2F1e5f08a4-24fa-4db5-89b9-d6a084ae0049%2F%2A~hmac=ae85773cdb258912dd9fb10a2699bb801fd848c6b6d6d04ad8f1375c993bb6a8/1e5f08a4-24fa-4db5-89b9-d6a084ae0049/hls.m3u8?min_seconds=30",
+        "name": "EVENTOS py 2",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/gfgrrgrggsg/playlist.m3u8",
         "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORTS 2",
+        "name": "EVENTOS py 3",
         "uri": "hhttps://testphp07.alwaysdata.net/universo/okru.m3u8",
         "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORTS  3",
+        "name": "EVENTOS py 4",
         "uri": "https://ssh101.bozztv.com/ssh101/video/playlist.m3u8",
         "ico": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png",
         "drm_scheme": "",
