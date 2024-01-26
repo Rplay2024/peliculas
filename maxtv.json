@@ -3,6 +3,13 @@
 "lista": 
 [ 
     {
+  "name": "test",
+   "ico": "https://previews.123rf.com/images/imagecatalogue/imagecatalogue1611/imagecatalogue161116759/66637610-test-text-rubber-seal-stamp-watermark-tag-inside-rounded-rectangular-banner-with-grunge-design-and.jpg",
+  "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
+    "drm_scheme": "clearkey",
+  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cf4c78e21fe219ad4aa5429ae93d43be&key=26db38a968a1b65d7270ee92632a7ce1"
+},
+    {
   "name": "TELEFUTURO",
    "ico": "https://panelssh.com.ar/Img/telefuturo.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
