@@ -10,6 +10,13 @@
     "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
 },
+    {
+  "name": "test",
+   "ico": "https://panelssh.com.ar/Img/telefuturo.png",
+  "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
+    "drm_scheme": "clearkey",
+  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=0070dbc490f3b5edfe1f68503fb6402c"
+},
 {
   "name": "LA TELE",
   "ico": "https://panelssh.com.ar/Img/latele.png",
