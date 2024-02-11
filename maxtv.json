@@ -643,7 +643,7 @@
 [ 
 { "name": "ESPN PREMIUM AR", 
 "ico": "https://panelssh.com.ar/Img/espnpremium.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd", 
+"uri": "http://201.235.66.116/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/espn_premium.json" 
 }, 
@@ -679,7 +679,7 @@
 }, 
 { "name": "FOX SPORTS", 
 "ico": "https://panelssh.com.ar/Img/pruebafox.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd", 
+"uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_wl/FoxSports.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/foxsport.json" 
 }, 
