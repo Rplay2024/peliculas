@@ -681,7 +681,7 @@
 "ico": "https://panelssh.com.ar/Img/pruebafox.png", 
 "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_wl/FoxSports.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://panelssh.com.ar/Keys/foxsport.json" 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b" 
 }, 
 { "name": "FOX SPORTS 2", 
 "ico": "https://panelssh.com.ar/Img/foxsports2.png", 
