@@ -1279,9 +1279,9 @@
           }, 
           { "name": "TL NOVELAS", 
           "ico": "https://panelssh.com.ar/Img/tlnovelas.png", 
-          "uri": "https://testphp07.alwaysdata.net/telelatino/play/56.m3u8", 
+          "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "" 
+          "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336" 
           }, 	
           { "name": "TNT NOVELAS", 
           "ico": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", 
