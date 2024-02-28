@@ -961,9 +961,9 @@
     }, 
     { "name": "UNIVERSAL CINEMA", 
     "ico": "https://panelssh.com.ar/Img/universalcinema.png", 
-    "uri": "https://unipluslivedash.akamaized.net/dash/live/2029942/universalcinemat0/manifest.mpd", 
+    "uri": "http://mtd.llc/chIdx/uncinema.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://raw.githubusercontent.com/Rplay2024/gitfull/main/dtv2.json" 
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2aca01f156ca29808721bba6cbbf9572&key=c23c8c863f5dd1f93d39c5aad041ef65" 
     }, 
     { "name": "UNIVERSAL COMEDY", 
     "ico": "https://panelssh.com.ar/Img/universalcomedy.png", 
